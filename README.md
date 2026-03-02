@@ -72,7 +72,7 @@ This dashboard can be used for:
 It reduces manual reporting effort while improving clarity, consistency, and usability in financial monitoring.
 
 ## Project Files
-- <a href:"https://github.com/GenAVR/Financial-KPI-Dashboard-Using-Microsoft-Excel/blob/main/Finance%20Dashboard%20Project.xlsx">View Finance Dashboard</a>
+- <a href="https://github.com/GenAVR/Financial-KPI-Dashboard-Using-Microsoft-Excel/blob/main/Finance%20Dashboard%20Project.xlsx">View Project</a>
 
 <img width="2640" height="1199" alt="Finance Dashboard" src="https://github.com/user-attachments/assets/4c2a3bda-82cf-4b20-bc77-a3731ac7af96" />
 
